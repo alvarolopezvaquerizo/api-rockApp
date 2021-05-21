@@ -1,0 +1,76 @@
+{
+  "bands": [
+    {
+      "id": 1,
+      "band_name": "The Rolling Stones",
+      "photo": "https://www.rockandpop.cl/wp-content/uploads/2020/12/168fb6b9b6f3f67cf705c6f1aa3d2e5b.jpg",
+      "description": "The Rolling Stones are a British rock band originally from London. The band was formed in April 1962 by Brian Jones, Mick Jagger, Keith Richards, Bill Wyman, Charlie Watts, and Ian Stewart.",
+      "date": "1962",
+      "kind_of_music": "rock",
+      "video": "https://youtu.be/O4irXQhgMqg"
+    },
+    {
+      "id": 2,
+      "band_name": "Led Zeppelin",
+      "photo": "https://arc-anglerfish-arc2-prod-copesa.s3.amazonaws.com/public/RSSFYJWTZJCIPOF4ZS3JC77YRQ.jpg",
+      "description": "Led Zeppelin was a British hard rock group founded in 1968 by guitarist Jimmy Page, who had belonged to The Yardbirds. The band consisted of John Paul Jones on bass and keyboard, vocalist Robert Plant and John Bonham on drums.",
+      "date": "1968",
+      "kind_of_music": "rock",
+      "video": "https://youtu.be/QkF3oxziUI4"
+    },
+    {
+      "id": 3,
+      "band_name": "Queen",
+      "photo": "https://www.duna.cl/media/2021/03/queen-f.jpg",
+      "description": "Queen is a British rock band formed in 1970 in London by singer and pianist Freddie Mercury, guitarist Brian May, drummer Roger Taylor and bassist John Deacon.",
+      "date": "1970",
+      "kind_of_music": "rock",
+      "video": "https://youtu.be/0oNn-uPrC1w"
+    },
+    {
+      "id": 4,
+      "band_name": "Pink Floyd",
+      "photo": "https://monterreyrock.com/wp-content/uploads/2020/07/las-10-mejores-canciones-de-pink-floyd.jpg",
+      "description": "Pink Floyd was a British rock band, founded in London in 1965. It is considered a 20th century cultural icon and one of the most influential and acclaimed bands in the history of music.",
+      "date": "1965",
+      "kind_of_music": "rock",
+      "video": "https://youtu.be/HrxX9TBj2zY"
+    },
+    {
+      "id": 5,
+      "band_name": "Deep Purple",
+      "photo": "https://mariskalrock.com/wp-content/uploads/2020/05/deep-purple-2020.jpg",
+      "description": "Deep Purple is a British hard rock band formed in 1968 in Hertford, United Kingdom. She is considered one of the pioneers of this subgenre, and the pioneers of heavy metal along with Led Zeppelin and Black Sabbath.",
+      "date": "1968",
+      "kind_of_music": "rock",
+      "video": "https://youtu.be/Y2qZJ3BHzjY"
+    },
+    {
+      "id": 6,
+      "band_name": "AC/DC",
+      "photo": "https://as01.epimg.net/tikitakas/imagenes/2020/02/18/portada/1582045528_402519_1582045779_noticia_normal_recorte1.jpg",
+      "description": "AC / DC is a British-Australian hard rock band, formed in 1973 in Australia by Scottish brothers Malcolm and Angus Young.",
+      "date": "1973",
+      "kind_of_music": "rock",
+      "video": "https://youtu.be/v2AC41dglnM"
+    },
+    {
+      "id": 7,
+      "band_name": "The Ramones",
+      "photo": "https://ep00.epimg.net/cultura/imagenes/2014/06/14/actualidad/1402772528_939035_1402772874_noticia_normal.jpg",
+      "description": "The Ramones were a punk band formed in Forest Hills, in the borough of Queens in 1974, and dissolved twenty-two years later, in 1996.",
+      "date": "1974",
+      "kind_of_music": "rock",
+      "video": "https://youtu.be/-CRAXIZoZv0"
+    },
+    {
+      "id": 8,
+      "band_name": "Kiss",
+      "photo": "https://www.rockandpop.cl/wp-content/uploads/2019/08/KISS-400x360.jpg",
+      "description": "Kiss is an American rock band formed in New York in January 1973 by bassist Gene Simmons and guitarist Paul Stanley, later joined by drummer Peter Criss and guitarist Ace Frehley.",
+      "date": "1973",
+      "kind_of_music": "rock",
+      "video": "https://youtu.be/ZhIsAZO5gl0"
+    }
+  ]
+}
